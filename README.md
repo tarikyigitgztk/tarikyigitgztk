@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png?utm_source=tr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png?utm_source=tr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/csharp-original.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png?utm_source=tr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)" alt="C#" height="50" /></a>  
 </div>  
   
 
