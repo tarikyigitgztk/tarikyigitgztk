@@ -69,6 +69,4 @@ Ben Tarık Yiğit Gözütok. Backend geliştirme alanında kariyer hedefleyen ve
 </div>  
   
 
-<br/>  
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
